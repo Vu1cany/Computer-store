@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ru.computer-store</groupId>
-	<artifactId>Somputer-store</artifactId>
+	<artifactId>Computer-store</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Somputer-store</name>
+	<name>Computer-store</name>
 	<description>Test task for EasyBot</description>
 	<properties>
 		<java.version>17</java.version>
