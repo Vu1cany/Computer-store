@@ -5,6 +5,6 @@
 4. Выполните последовательно команды:  
     * ___./mvnw package___
     * ___cd target___
-    * ___java -jar Computer-store-0.0.1-SNAPSHOT.jar___
+    * ___java -jar Computer-store-0.0.1-SNAPSHOT.jar___   
 5.Приложение работает по адресу http://localhost:8080
 
